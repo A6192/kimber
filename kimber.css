@@ -1,0 +1,102 @@
+/*css reset*/
+html{
+
+}
+
+body{
+font-family: sans-serif;
+padding: 0%;
+margin: 0%;
+
+}
+
+h1
+h2
+h3
+h4
+{
+padding: 0;
+margin: 0;
+}
+
+.One{
+    margin-left: 4rem;
+    margin-top: 7rem;
+}
+
+.Two{
+    display: flex;
+    justify-content: end;
+    margin-right: 7rem;
+    margin-bottom: 1rem;
+}
+
+.Three input{
+    width: 70rem;
+    margin-left: 2rem;
+    margin-bottom: 10rem;
+    border-radius: 2rem;
+    padding: 12px;
+}
+
+.move{
+    margin-left: 44px;
+    margin-bottom: 1rem;
+}
+
+.Four{
+    background-color: chocolate;
+    padding: 12px;
+}
+
+.Six{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+
+.daya{
+    background-color: chocolate;
+
+}
+
+.biyu{
+    background-color: chocolate;
+}
+
+.uku{
+    background-color: chocolate;
+}
+
+.hudu{
+    background-color: chocolate;
+}
+
+.Seven{
+    position: absolute;
+}
+
+.zam-f{
+position: relative;
+margin-bottom: 20rem;
+background-color: chocolate;
+width: fit-content;
+}
+
+.zam-b{
+position: relative;
+background-color: chocolate;
+width: fit-content;
+}
+
+.zam-u{
+position: relative;
+background-color: chocolate;
+width: fit-content;
+}
+
+.zam-h{
+    position: relative;
+    background-color: chocolate;
+    width: fit-content;
+}
